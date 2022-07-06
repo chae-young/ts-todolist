@@ -1,4 +1,5 @@
 ### 🤍✏️타입스크립트로 todolist 만들기
+[보러가기](https://chae-young.github.io/ts-todolist/)
 
 <br>
 
